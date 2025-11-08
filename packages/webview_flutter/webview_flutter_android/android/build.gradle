@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespac: 'io.flutter.plugins.webviewflutter'
+    namespace: 'io.flutter.plugins.webviewflutter'
     compileSdkVersion 31
 
     defaultConfig {
